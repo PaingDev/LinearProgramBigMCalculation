@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_25" class="java.beans.XMLDecoder">
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>javax.swing.plaf.metal.MetalLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Metal</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>javax.swing.plaf.nimbus.NimbusLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Nimbus</string>
+  </void>
+ </object>  
+<object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.sun.java.swing.plaf.motif.MotifLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>CDE/Motif</string>
+  </void>
+ </object>  <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.sun.java.swing.plaf.windows.WindowsLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Windows</string>
+  </void>
+ </object>  <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Windows Classic</string>
+  </void>
+ </object>  <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.acryl.AcrylLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Acryl</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.aero.AeroLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Aero</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.aluminium.AluminiumLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Aluminium</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.bernstein.BernsteinLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Bernstein</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.fast.FastLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Fast</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.graphite.GraphiteLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Graphite</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.hifi.HiFiLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Hifi</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.luna.LunaLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Luna</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.mcwin.McWinLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>MCWin</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.mint.MintLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Mint</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.noire.NoireLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Noire</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.smart.SmartLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Smart</string>
+  </void>
+ </object>
+ <object class="com.cumdy.util.LookAndFeelHolder">
+  <void property="className">
+   <string>com.jtattoo.plaf.texture.TextureLookAndFeel</string>
+  </void>
+  <void property="name">
+   <string>Texture</string>
+  </void>
+ </object>
+</java>
